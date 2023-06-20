@@ -1,0 +1,20 @@
+{
+  "name": "mir-antfu-utils-math-lerp-precision",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "test": "vitest",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.2",
+    "vite": "^4.3.9",
+    "vitest": "^0.32.2"
+  },
+  "dependencies": {
+    "@antfu/utils": "^0.7.4"
+  }
+}
